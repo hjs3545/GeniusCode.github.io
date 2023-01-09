@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Jaesung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "NLP,CV,ML,DL,MATH,STATISTICS"
+  bio              : "NLP,CV,ML,\nDL,MATH,STATISTICS"
   location         : "KOREA"
   email            :
   links:
